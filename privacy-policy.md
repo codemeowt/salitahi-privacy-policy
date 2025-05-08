@@ -50,11 +50,9 @@ All ad-related data handling is managed by the third-party providers (e.g., Goog
 
 **5. Children’s Privacy**
 
-This app is not intended for children under the age of 3.
+This app is suitable for a general audience, including children. However, we do not knowingly collect personal information from users under the age of 13.
 
-We do not knowingly collect personal information from children.
-
-If you are a parent or guardian and believe your child has provided personal data, please contact us.
+If you are a parent or guardian and believe your child has provided personal data, please contact us so we can take appropriate action.
 
 -----------------------------------
 
